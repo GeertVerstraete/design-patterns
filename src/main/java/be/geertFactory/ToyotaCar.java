@@ -1,4 +1,4 @@
-package com.realdolmen.factory;
+package be.geertFactory;
 
 class ToyotaCar extends Car {
     public ToyotaCar(Color color, String model) {

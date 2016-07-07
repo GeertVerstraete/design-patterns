@@ -1,4 +1,6 @@
-package com.realdolmen.factory;
+package be.geertFactory;
+
+import be.geertFactory.Truck;
 
 /**
  * Created by KVRRQ70 on 5/07/2016.

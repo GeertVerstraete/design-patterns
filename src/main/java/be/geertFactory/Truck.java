@@ -1,4 +1,4 @@
-package com.realdolmen.factory;
+package be.geertFactory;
 
 public abstract class Truck {
     private int capacity;

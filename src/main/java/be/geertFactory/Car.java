@@ -1,4 +1,4 @@
-package com.realdolmen.factory;
+package be.geertFactory;
 
 public class Car {
     private String model;
@@ -42,5 +42,9 @@ public class Car {
                 ", make='" + make + '\'' +
                 ", color=" + color +
                 '}';
+    }
+
+    public static enum Color {
+        red, green, blue
     }
 }
