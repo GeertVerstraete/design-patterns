@@ -1,7 +1,5 @@
 package be.geertFactory;
 
-import be.geertFactory.AudiStuff.AudiFactory;
-
 public class CarRunner {
     public static void main(String[] args) {
         // Switch factory by simply replacing this with ToyotaFactory
